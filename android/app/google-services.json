@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113022763393",
+    "project_id": "harmonie-dd48c",
+    "storage_bucket": "harmonie-dd48c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113022763393:android:912bf6971656228e622880",
+        "android_client_info": {
+          "package_name": "cm.harmonie.ndteg.ndteg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113022763393-di4st3fg6a321u1ibipm2edchnetjo4u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdXKGvdjoTtHLGHmWVGgMelZn8gjmcDE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113022763393-di4st3fg6a321u1ibipm2edchnetjo4u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
